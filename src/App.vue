@@ -97,7 +97,7 @@
     left: 0;
     top: 9px;
   }
-  
+
   .finished {
     text-decoration: line-through;
     color: #ddd;
